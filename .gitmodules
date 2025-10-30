@@ -1,0 +1,3 @@
+[submodule "Husky-Engine"]
+	path = Husky-Engine
+	url = https://github.com/Lambert1217/Husky-Engine.git
